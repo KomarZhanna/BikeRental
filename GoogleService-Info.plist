@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>255352757650-lhqg3r0q7isgo9rds9bubu3c1743okkb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.255352757650-lhqg3r0q7isgo9rds9bubu3c1743okkb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsTPhMhOagjwjABIMAa6eRcT6DQ-WV6yU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>255352757650</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Zhanna.BikeRentalWithRealm</string>
+	<key>PROJECT_ID</key>
+	<string>bikerental-295512</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bikerental-295512.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:255352757650:ios:f1437b54e69fb33053f54b</string>
+	<key>DATABASE_URL</key>
+	<string>https://bikerental-295512.firebaseio.com</string>
+</dict>
+</plist>
